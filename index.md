@@ -2,8 +2,7 @@
 
 ## About Me
 
-A concise, single sentence about yourself as a designer. 
-Hi I am junior graphic designer who does love to spark projects with gentle illustrations but is not afraid of different aestetic.
+ I am Anna, junior graphic designer who does enjoy illustration and play part in meaningful projects.
 
 ## My Story
 
@@ -11,14 +10,19 @@ Hi I am junior graphic designer who does love to spark projects with gentle illu
 
 ![Alt text description.](images/sutnar-headshot.png)
 
-A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
+ I am graphic design student currently pursing final year of my bachelor studies. Since I was born I was leaning towards arts and crafts of all various kinds such as painting, photos, pottering and even tattoo making.
 
-## Featured Project
+In my work as a designer I am mostly focused on visual identites. My dream job would probably revolve around use of illustration however as you will see later in my diverse style works ,I am still trying to explore all possible fields of graphic design and find my special place.
+
+When I am not behind computer screen or working on my projects, I love to move my body in yoga poses,spent time with my dogs outside or discorver new design coffe places with friends.
+
+## Theatre Viola
+<! -- Maybe a photo of yourself? -->
 
 ![Write an alternative text description.](images/featured-project-01.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance or outcome of the project — *the why*.
+- Creating new visual communication of significant prague theatre Viola.
+- Theatre was in need to unite and simplify visual communication to appeal to younger clientel.
 
 <!-- A link to your case study -->
 
