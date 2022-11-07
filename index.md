@@ -19,7 +19,7 @@ When I am not behind computer screen or working on my projects, I love to move m
 ## Theatre Viola
 <! -- Maybe a photo of yourself? -->
 
-![Write an alternative text description.](images/featured-project-01.png)
+![Three thetre posters and one theatre program brochure both with black adn white photographs and colorful taglines.](Screenshot 2022-11-07 at 20.36.01.png)
 
 - Creating new visual communication of significant prague theatre Viola.
 - Theatre was in need to unite and simplify visual communication to appeal to younger clientel.
