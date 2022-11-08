@@ -8,6 +8,7 @@ We were given the opportunity  to cooperate with the small but very significant 
 - what Ive learned
 - more like a text
 - show the process
+- typeface and color but make it more engaging
 
 ![Alt text description.](case-study-viola.jpg)
 ## Dates
