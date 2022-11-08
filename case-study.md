@@ -7,6 +7,7 @@ We were given the opportunity  to cooperate with the small but very significant 
 - what i did what skills
 - what Ive learned
 - more like a text
+- show the process
 
 ![Alt text description.](case-study-viola.jpg)
 ## Dates
