@@ -16,7 +16,6 @@ In my work as a designer I am mostly focused on visual identites. My dream job w
 When I am not behind computer screen or working on my projects, I love to move my body in yoga poses,spent time with my dogs outside or discover new design coffe places with friends.
 
 ## Theatre Viola
-![Three thetre posters and one theatre program brochure both with black adn white photographs and colorful taglines.](Screenshot 2022-11-07 at 20.36.01.jpg)
 
 - Creating new visual communication of significant prague theatre Viola.
 - Theatre was in need to unite and simplify visual communication to appeal to younger clientel.
