@@ -1,6 +1,6 @@
 # Theatre Viola
 In this school assigment, we were given the opportunity  to cooperate with the small but very significant prague theater Viola on Národní třída. 
-
+(![Alt text description.](images/animation.gif)
 ## Dates
 November-January 2022
 
