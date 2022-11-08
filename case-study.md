@@ -1,4 +1,4 @@
-# Theatre Viola
+# Viola Theatre
 We were given the opportunity  to cooperate with the small but very significant prague theater Viola located on Národní třída in Art Nouveau building. The theatre is focused on chamber performances inspired by literary texts and has rich cultural heritance continuing to the day.
 
 (little bit about theatre) 
