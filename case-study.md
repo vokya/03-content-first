@@ -1,31 +1,19 @@
 # Viola Theatre
-We were given the opportunity  to cooperate with the small but very significant prague theater Viola located on Národní třída in Art Nouveau building. The theatre is focused on chamber performances inspired by literary texts and has rich cultural heritance continuing to the day.
+## November-January 2022 
+Ideation, identity, branding, social media strategy, print layouts
 
-(little bit about theatre) 
-- tell it more like a story
-- what I really love (color gradience and 
-- what i did what skills
-- what Ive learned
-- more like a text
-- show the process
-- typeface and color but make it more engaging
+We cooperated with the small but very significant Prague Viola theatre located on Národní třída in the Art Nouveau building. The theatre is focused on chamber performances inspired by literary texts. The place was exceptionally important during the 70s when it served as a poetic vinery for intellectuals and artists. 
 
-![Alt text description.](case-study-viola.jpg)
-## Dates
-November-January 2022 (shool assigment)
+Unfortunately, visual communication has shattered over time a has become more and more fragmented and neglected. The client’s request was to upgrade communication to be more attractive and united. A logo, website, all printed materials, and a social media strategy was required. The main objective was to appeal to younger viewers, but also not to offend the usual older visitors.
 
-## Role
-My role in the team od three (together with Jan Jiráček and Eunice Sojková) was to focus on the potential of social media, printed programs and cocreating whole conception. We won 2nd place with this project. Our logo was combined with the winnig design. 
+In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. 
 
-## Outcome
-Ideation, identity, branding, social media strategy, print layouts 
+We introduced a little play to the project by expressing physical proximity in the theatre with taglines like" Be even closer to us in January" on the program. Proximity was also used in typography. 
 
-Client’s request was to make overall communication more attractive and united including logo, website, all printed materials and  strategy for social media. Our objective was to appeal to younger viewers, but also not scare the usual older clientele.
-- show their previous communication
+The colors, that I particularly enjoyed,are in the form of warm gradients inspired by theater lights, also the cozy atmosphere and abstract emotions during the performance.
 
-## Solution
-In our design we decided to enhance special aspects of the theater such as unique closeness to the artists and the emphasis on the beauty of the czech languge. We play with the word proximity in the typography. The colors are in the form of warm gradients inspiried by theater lights, also cozy atmosphere and abstract emotions during the performance. Why it works ? 
+We hope that our design and marketing choices would come across as attractive and accessible for visitors of every age. The new approach to social media would raise the awareness of the brand among younger clients that are in my opinion no less interested in theatre. 
 
-## Takeaway
-This project wassuprisingly challenging beacause of the creative freedom in comparassion with serious corporate projects. We were as a team often tangled in different ideas and inspiration. At the end we figured out the way based on strong communication story.   
+My role in the team of three (together with Jan Jiráček and Eunice Sojková) was to focus on the potential of social media, printed programs, and cocreating the whole conception. 
 
+This project was surprisingly challenging because of the creative freedom in comparison with serious corporate projects. We were as a team often overwhelmed with ideas and inspiration until we found a strong communication story. 
