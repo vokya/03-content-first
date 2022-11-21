@@ -1,25 +1,19 @@
 # Anna Vokounová
 
 ## About Me
-
- I am Anna, junior graphic designer who enjoys illustration and likes to play a part in meaningful projects.
-
+I am Anna, a junior graphic designer who enjoys illustration and likes to play a part in meaningful projects.
 ## My Story
 
 ![Anna working on a notebook .](about-me-photo.jpg)
 This is me
 
- I am graphic design student currently pursing final year of my bachelor studies. Since I was born I was leaning towards arts and crafts of all various kinds such as painting, photos, pottery and even tattoo making.
+I am a graphic design student currently pursuing the final year of my bachelor's studies. Since I was born I was leaning towards arts and crafts of all various kinds such as painting, photos, pottery, and even tattoo making.
 
-In my work as a designer I am mostly focused on visual identites. My dream job would probably revolve around use of illustration however as you will see later in my diverse style works ,I am still trying to explore all possible diciplines of graphic design and find my special place. I love to educate myself in courses and still moving foward. I hope to bring little thoughtfullness to every project that I am part of. 
+In my work as a designer, I am mostly focused on visual identities. My dream job would probably revolve around the use of illustration. As you will see later in my diverse works, I am still trying to explore all possible disciplines of graphic design and find a place where I fit the best. I love to educate myself in courses and still moving forward. I hope to bring a little thoughtfulness to every project that I am part of.
 
-When I am not behind computer screen or working on my projects, I love to move my body in yoga poses,spent time with my dogs outside or discover new design coffe shops with friends.
+When I am not behind a computer screen, I love to move my body in yoga poses, spent time with my dogs outside, or discover new coffee shops with my friends.
 
 ## Theatre Viola
-
-- Creating new visual communication of significant prague theatre Viola.
-- Theatre was in need to unite and simplify visual communication to appeal to younger clientel.
-
-<!-- A link to your case study -->
-
+- Creating new visual communication of significant Prague theatre 
+- Theatre required uniting and simplifying the visual communication to appeal to younger clients
 - [View Selected Case Study](case-study.md)
