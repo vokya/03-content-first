@@ -4,6 +4,8 @@ Ideation, identity, branding, social media strategy, print layouts
 
 We cooperated with the small but very significant Prague Viola theatre located on Národní třída in the Art Nouveau building. The theatre is focused on chamber performances inspired by literary texts. The place was exceptionally important during the 70s when it served as a poetic vinery for intellectuals and artists. 
 
+(Viola-1.jpeg)
+
 Unfortunately, visual communication has shattered over time a has become more and more fragmented and neglected. The client’s request was to upgrade communication to be more attractive and united. A logo, website, all printed materials, and a social media strategy was required. The main objective was to appeal to younger viewers, but also not to offend the usual older visitors.
 
 In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. 
