@@ -7,10 +7,10 @@ We cooperated with the small but very significant Prague Viola theatre located o
 ![Oval entrance of the theatre,view from Národní třída street.](Viola-1.jpeg)
 
 Unfortunately, visual communication has shattered over time a has become more and more fragmented and neglected. The client’s request was to upgrade communication to be more attractive and united. A logo, website, all printed materials, and a social media strategy was required. The main objective was to appeal to younger viewers, but also not to offend the usual older visitors.
-![Original logo of thetre viola, Art Nouveau styled letters in violet color spelling Viola.](Viola-4.jpeg)
+![Original logo of theatre Viola, Art Nouveau styled letters in violet color spelling Viola.](Viola-4.jpeg)
 ![Poster for a thetre performance.](Viola-5.jpeg)
-Original poster for a thetre performance
-![[Poster for a thetre performance.](Viola-6.jpeg)
+
+![Poster for a thetre performance.](Viola-6.jpeg)
 
 In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. 
 
