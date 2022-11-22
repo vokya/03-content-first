@@ -1,10 +1,11 @@
 # Anna Vokounová
 
 ## About Me
-I am Anna, a junior graphic designer who enjoys illustration and likes playing a part in meaningful projects🫶
+I am Anna, a junior graphic designer who enjoys illustration and likes playing a part in meaningful projects 🫶
 ## My Story
 
 ![Anna working on a notebook .](about-me-photo.jpg)
+
 This is me
 
 I am a graphic design student currently pursuing the final year of my bachelor's studies. Since I was born I was leaning towards arts and crafts of all various kinds such as painting, photos, pottery, and even tattoo making.
