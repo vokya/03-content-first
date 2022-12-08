@@ -2,7 +2,7 @@
 ## November-January 2022 
 Ideation, identity, branding, social media strategy, print layouts
 
-We worked with the small but very significant Prague Viola theatre located on Národní třída. The theatre is focused on chamber performances inspired by literary texts. The place was important in the 70s when it served as a poetic vinery for intellectuals and artists.
+We worked with a small but very significant Prague Viola theatre located on Národní třída. The theatre is focused on chamber performances inspired by literary texts. The place was important in the 70s when it served as a poetic vinery for intellectuals and artists.
 
 ![Oval entrance of the theatre,view from Národní třída street.](Viola-1.jpeg)
 
